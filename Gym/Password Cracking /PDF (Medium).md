@@ -7,3 +7,10 @@
 
 - Run ```john --wordlist=/usr/share/wordlists/rockyou.txt pdfhash.txt```
 
+![image](https://github.com/Kiezroy/NCL/assets/67439231/ed95d2e3-097b-4990-a4aa-c483a7757be3)
+
+keanureeves2008
+
+![image](https://github.com/Kiezroy/NCL/assets/67439231/38ab4051-997c-4189-bbcc-95643901ff84)
+
+SKY-KANU-5902
